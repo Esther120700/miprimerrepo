@@ -8,11 +8,7 @@ x<!DOCTYPE html>
 <link rel="stylesheet" href="style.css">
 <body>
     <header>
-<<<<<<< HEAD
-    <h1>ESTA ES MI SEGUNDA PAGINA WEB</h1>
-=======
     <h1>ESTA ES MI ULTIMA PAGINA WEB</h1>
->>>>>>> header
     <h2>este es el ejemplo perfecto del modulo de git</h2>
     <header>
     <main>
